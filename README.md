@@ -1,6 +1,6 @@
 ## G'day 👋 Xin chào 🇻🇳🇦🇺
 
-- 🔭 I’m currently working on exploring different cryptographic algorithms using Python
+- 🔭 I’m currently working on exploring cyber space
 - 🌱 I’m currently learning cybersecurity engineering, information security management
 - 👯 I’m looking to collaborate on any entry-level networking, database management, security projects
 - 🤔 I’m looking for help with any of the above
